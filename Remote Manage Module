@@ -1,0 +1,8 @@
+#!name=Remote Manage info
+#!desc=Reject Rule and so on
+
+[General]
+http-api-web-dashboard = true
+external-controller-access = 1234@0.0.0.0:6170
+http-api = 123456@0.0.0.0:9999
+
