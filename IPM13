@@ -1,0 +1,21 @@
+#!name=IPM13 Self Piece
+#!desc=Reject Rule and so on
+
+[General]
+allow-wifi-access = false
+
+[Rule]
+# MacWk.com Start
+# Sublime Text
+DOMAIN,www.sublimetext.com,REJECT
+DOMAIN,sublimetext.com,REJECT
+DOMAIN,license.sublimehq.com,REJECT
+# Beyond Compare
+DOMAIN,www.scootersoftware.com,REJECT
+DOMAIN,scootersoftware.com,REJECT
+# Mountain Duck
+DOMAIN,version.mountainduck.io,REJECT
+# MacWk.com End
+
+[SSID Setting]
+"HomeAX" suspend=true
