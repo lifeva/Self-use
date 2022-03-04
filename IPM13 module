@@ -1,9 +1,6 @@
 #!name=IPM13 Self Piece
 #!desc=Reject Rule and so on
 
-[General]
-allow-wifi-access = false
-
 [Rule]
 # MacWk.com Start
 # Sublime Text
