@@ -1,6 +1,9 @@
 #!name=MBP Self Piece
 #!desc=Reject Rule and so on
 
+[General]
+
+
 [Rule]
 # MacWk.com Start
 # Sublime Text
