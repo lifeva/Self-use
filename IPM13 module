@@ -1,6 +1,11 @@
 #!name=IPM13 Self Piece
 #!desc=Reject Rule and so on
 
+[General]
+allow-wifi-access = false
+wifi-access-http-port = 6152
+wifi-access-socks5-port = 6153
+
 [Rule]
 # MacWk.com Start
 # Sublime Text
